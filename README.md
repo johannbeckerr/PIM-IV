@@ -1,5 +1,5 @@
 # PIM-IV
-Projeto Integrado Multidisciplinar
+- Projeto Integrado Multidisciplinar -
 
 Desenvolvimento e análise de um sistema de controle operacional de uma
 empresa especialista em transações com Blockchain.

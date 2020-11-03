@@ -31,8 +31,8 @@ Leonardo
 ***********************
 
 Artefetos para configuração do BANCO:
-	1) https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.22.0.msi
-	2) Custom > | MySQL Server 8.0.22 - X64 | MySQL Workbench 8.0.22 - X64 | Connector/J 8.0.22 - X86 |
+	#1) https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.22.0.msi
+	#2) Custom > | MySQL Server 8.0.22 - X64 | MySQL Workbench 8.0.22 - X64 | Connector/J 8.0.22 - X86 |
 	3) Workbench > Server > Data Import > Import from Dump Project Folder
 	4) Default Target Schema: blockchain
 	5) Padrão: Dump Structure and Data

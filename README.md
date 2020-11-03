@@ -31,8 +31,9 @@ Leonardo
 ***********************
 
 Artefetos para configuração do BANCO:
-	#1) https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.22.0.msi
-	#2) Custom > | MySQL Server 8.0.22 - X64 | MySQL Workbench 8.0.22 - X64 | Connector/J 8.0.22 - X86 |
+
+	1) https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.22.0.msi
+	2) Custom > | MySQL Server 8.0.22 - X64 | MySQL Workbench 8.0.22 - X64 | Connector/J 8.0.22 - X86 |
 	3) Workbench > Server > Data Import > Import from Dump Project Folder
 	4) Default Target Schema: blockchain
 	5) Padrão: Dump Structure and Data
@@ -42,6 +43,7 @@ Artefetos para configuração do BANCO:
 		- Padrão: Dump Structure and Data
 		
 Artefatos para configuração da APLICAÇÃO
+
 	1) https://downloads.apache.org/tomcat/tomcat-8/v8.5.59/bin/apache-tomcat-8.5.59-windows-x64.zip
 	2) https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-09/R/eclipse-jee-2020-09-R-win32-x86_64.zip&mirror_id=1258
 	3) https://github.com/git-for-windows/git/releases/download/v2.29.2.windows.1/Git-2.29.2-64-bit.exe

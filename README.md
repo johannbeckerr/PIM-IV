@@ -45,7 +45,7 @@ Artefetos para configuração do BANCO:
 Artefatos para configuração da APLICAÇÃO
 
 	1) https://downloads.apache.org/tomcat/tomcat-8/v8.5.59/bin/apache-tomcat-8.5.59-windows-x64.zip
-	2) https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2020-09/R/eclipse-jee-2020-09-R-win32-x86_64.zip&mirror_id=1258
+	2) Eclipse: https://bityli.com/zI8NS
 	3) https://github.com/git-for-windows/git/releases/download/v2.29.2.windows.1/Git-2.29.2-64-bit.exe
 	4) Clone o projeto (https://github.com/johanndrums/PIM-IV.git)
 	5) Eclipse > File > Import Projets from File System

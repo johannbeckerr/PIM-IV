@@ -51,9 +51,9 @@ Artefatos para configuração da APLICAÇÃO
 	5) Eclipse > File > Import Projets from File System
 	6) Seja Feliz
 	
-	___________________
 	
-	#ATENÇÃO: CADA UM NA SUA BRANCH E ANTES DO MERGE, COMENTÁRIOS DO QUE ESTÁ FAZENDO.
+	
+ATENÇÃO: CADA UM NA SUA BRANCH E ANTES DO MERGE, COMENTÁRIOS DO QUE ESTÁ FAZENDO.
 	
 	
 	
